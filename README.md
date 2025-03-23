@@ -45,3 +45,9 @@ python template.py
 6. Now the project has been setup has the local Package
 
 
+### Basic Git Commands
+- git add .
+- git commit -m "message"
+- git push origin main
+- git log
+- git status
