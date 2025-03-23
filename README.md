@@ -96,6 +96,13 @@ python store_index.py
 - GPT
 - PineCone
 
+### Software Workflow Architecture
+<table border="1" >
+  <tr>
+    <th>Name</th>
+  </tr>
+</table>
+
 ### Basic Git Commands
 - git add .
 - git commit -m "message"
