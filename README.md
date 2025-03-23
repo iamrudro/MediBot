@@ -99,7 +99,9 @@ python store_index.py
 ### Software Workflow Architecture
 <table border="1" >
   <tr>
-    <th>Name</th>
+    <th><img src=
+"https://github.com/user-attachments/assets/f6e3d4d9-2098-40c0-bc0f-589e071f7a59"
+                       alt="Arch"></th>
   </tr>
 </table>
 
