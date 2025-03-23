@@ -89,7 +89,12 @@ python store_index.py
 4. Initialize Flask
 5. Exectue ```python app.py``` to run flask
 
-
+### TechStack Used:
+- Python
+- LangChain
+- Flask
+- GPT
+- PineCone
 
 ### Basic Git Commands
 - git add .
